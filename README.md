@@ -33,4 +33,4 @@
 
 # 🎫 실행화면
 
-<img width="65%" src="https://github.com/moonjieun/todo/assets/102341066/9c07064d-787f-4d67-846b-29721dc42e8d"/>
+<img width="65%" src="https://github.com/moonjieun/todo/assets/102341066/c9d90cec-25b5-46ff-b8de-201fda088153"/>
